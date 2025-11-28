@@ -77,7 +77,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/cd8bdefb-6156-4a47-bc62-57d39c0c8482" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/26f7782f-ee56-4234-92a0-f598feed6687" />
+
 
 
 ## RESULT:
